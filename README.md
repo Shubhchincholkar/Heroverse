@@ -4,7 +4,7 @@
 
   <h2 align="center">Heroverse</h2>
 
-  This is a Heroverse, <br /> build using HTML & CSS 
+  This is a Heroverse, <br /> build using HTML , CSS & JS 
 
   <a href="heroverse-animation.netlify.app/"><strong>➥ Live Demo</strong></a>
 
